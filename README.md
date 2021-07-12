@@ -23,7 +23,9 @@ You know what my thought process most likely was when I decided to cut down on *
 
 > "There's so much stuff in the news about neural networks being biased when there's a literal bias node! Look at me Dad I'm smart! Just delete the bias node and everything will be fine!"
 
+
 ![meme](https://user-images.githubusercontent.com/84810366/125226112-12019f00-e296-11eb-86a7-d1bbc4063129.gif)
+
 
 And so, I'm uploading this on my GitHub to show just how much of an idiot I am and to show "growth".
 
