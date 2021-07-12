@@ -26,6 +26,7 @@ You know what my thought process most likely was when I decided to cut down on *
 
 ![meme](https://user-images.githubusercontent.com/84810366/125226112-12019f00-e296-11eb-86a7-d1bbc4063129.gif)
 
+I'm scared at how it actually did work and managed to survive for >20 minutes before hitting the threshold and diverging again.
 
 And so, I'm uploading this on my GitHub to show just how much of an idiot I am and to show "growth".
 
